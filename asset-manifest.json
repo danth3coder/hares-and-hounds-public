@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hares-and-hounds-public/static/css/main.99b38e50.chunk.css",
-    "main.js": "/hares-and-hounds-public/static/js/main.24f796f5.chunk.js",
-    "main.js.map": "/hares-and-hounds-public/static/js/main.24f796f5.chunk.js.map",
+    "main.js": "/hares-and-hounds-public/static/js/main.737099bf.chunk.js",
+    "main.js.map": "/hares-and-hounds-public/static/js/main.737099bf.chunk.js.map",
     "runtime-main.js": "/hares-and-hounds-public/static/js/runtime-main.291be45b.js",
     "runtime-main.js.map": "/hares-and-hounds-public/static/js/runtime-main.291be45b.js.map",
     "static/js/2.bab94212.chunk.js": "/hares-and-hounds-public/static/js/2.bab94212.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.291be45b.js",
     "static/js/2.bab94212.chunk.js",
     "static/css/main.99b38e50.chunk.css",
-    "static/js/main.24f796f5.chunk.js"
+    "static/js/main.737099bf.chunk.js"
   ]
 }
