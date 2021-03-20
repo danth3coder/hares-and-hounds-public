@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hares-and-hounds-public/static/css/main.3e73e33c.chunk.css",
-    "main.js": "/hares-and-hounds-public/static/js/main.baf790e9.chunk.js",
-    "main.js.map": "/hares-and-hounds-public/static/js/main.baf790e9.chunk.js.map",
+    "main.css": "/hares-and-hounds-public/static/css/main.99b38e50.chunk.css",
+    "main.js": "/hares-and-hounds-public/static/js/main.24f796f5.chunk.js",
+    "main.js.map": "/hares-and-hounds-public/static/js/main.24f796f5.chunk.js.map",
     "runtime-main.js": "/hares-and-hounds-public/static/js/runtime-main.291be45b.js",
     "runtime-main.js.map": "/hares-and-hounds-public/static/js/runtime-main.291be45b.js.map",
-    "static/js/2.db8d5584.chunk.js": "/hares-and-hounds-public/static/js/2.db8d5584.chunk.js",
-    "static/js/2.db8d5584.chunk.js.map": "/hares-and-hounds-public/static/js/2.db8d5584.chunk.js.map",
+    "static/js/2.bab94212.chunk.js": "/hares-and-hounds-public/static/js/2.bab94212.chunk.js",
+    "static/js/2.bab94212.chunk.js.map": "/hares-and-hounds-public/static/js/2.bab94212.chunk.js.map",
     "index.html": "/hares-and-hounds-public/index.html",
-    "static/css/main.3e73e33c.chunk.css.map": "/hares-and-hounds-public/static/css/main.3e73e33c.chunk.css.map",
-    "static/js/2.db8d5584.chunk.js.LICENSE.txt": "/hares-and-hounds-public/static/js/2.db8d5584.chunk.js.LICENSE.txt"
+    "static/css/main.99b38e50.chunk.css.map": "/hares-and-hounds-public/static/css/main.99b38e50.chunk.css.map",
+    "static/js/2.bab94212.chunk.js.LICENSE.txt": "/hares-and-hounds-public/static/js/2.bab94212.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.291be45b.js",
-    "static/js/2.db8d5584.chunk.js",
-    "static/css/main.3e73e33c.chunk.css",
-    "static/js/main.baf790e9.chunk.js"
+    "static/js/2.bab94212.chunk.js",
+    "static/css/main.99b38e50.chunk.css",
+    "static/js/main.24f796f5.chunk.js"
   ]
 }
